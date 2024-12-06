@@ -1,3 +1,7 @@
+# Jokenpô Flutter
+
+Projeto em Dart/Flutter de jogo jokenpô
+
 # proj_jokenpo
 
 A new Flutter project.
